@@ -4,7 +4,8 @@
   <groupId>com.shenhl</groupId>
   <artifactId>demo_web</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
+  <!--不要版本号,服务jenkins的tomcat没有配置,暂时使用-->
+  <!--<version>1.0</version>-->
   <name>demo_web Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
